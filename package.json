@@ -1,0 +1,31 @@
+{
+  "name": "pojo-stick",
+  "version": "0.1.0",
+  "description": "Sync a plain-old-javascript-object with a local json file - in 1 line of code!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digital-taco/pojo-stick.git"
+  },
+  "keywords": [
+    "json",
+    "pojo",
+    "sync",
+    "db",
+    "database",
+    "simple",
+    "auto"
+  ],
+  "author": "Kyle West <@Kyl3W3st>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digital-taco/pojo-stick/issues"
+  },
+  "homepage": "https://github.com/digital-taco/pojo-stick#readme",
+  "devDependencies": {
+    "jest": "^26.5.2"
+  }
+}
